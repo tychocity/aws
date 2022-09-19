@@ -294,7 +294,7 @@ resource "aws_autoscaling_group" "Demo-ASG-tf" {
     propagate_at_launch = true
     }
 } 
-
+# linea de prueba
 # Create Target group
 
 resource "aws_lb_target_group" "TG-tf" {
