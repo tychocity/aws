@@ -1,1 +1,1 @@
-# aws
+# deployment for 2 public subnets and 2 private subnets with a load balancer and launch templates and automatic scaling groups
